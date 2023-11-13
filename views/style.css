@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    max-width: 400px;
+    
+    
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="radio"],
+input[type="submit"] {
+    margin-bottom: 10px;
+}
